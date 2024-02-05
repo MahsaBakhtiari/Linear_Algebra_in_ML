@@ -7,4 +7,5 @@
 
 
 ### Table of content:
-- 
+- [math_for_ml_prof_Dye
+](https://github.com/MahsaBakhtiari/Linear_Algebra_in_ML/tree/main/math_for_ml_prof_Dye) : It contains the formula sheet and Jupyter notebooks of translating linear algebra concepts and formulas into NumPy
