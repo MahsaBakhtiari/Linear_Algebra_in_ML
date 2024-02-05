@@ -14,4 +14,4 @@
 
 
 ### Community
-This is a subject that I really enjoy; if you want to share cool materials or you have any questions on this topic, please [CONTACT](https://mahsabakhtiarim@gmail.com) me.
+This is a subject that I really enjoy; if you want to share cool materials or you have any questions on this topic, feel free to reach out. 
