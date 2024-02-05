@@ -4,3 +4,7 @@
 
 
 ### In this repository, I will add the mathematics-related materials used for machine learning. They are from different courses and resources. 
+
+
+### Table of content:
+- Mathematics for 
