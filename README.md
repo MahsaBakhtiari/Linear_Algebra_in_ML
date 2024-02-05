@@ -7,4 +7,4 @@
 
 
 ### Table of content:
-- Mathematics for 
+- 
